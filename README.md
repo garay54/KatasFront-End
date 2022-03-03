@@ -14,3 +14,5 @@
 
 
 # Buyer-Persona
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/buyerpersona1.png)
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/buyerpersona2.png)
