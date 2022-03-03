@@ -16,3 +16,10 @@
 # Buyer-Persona
 ![Image text](https://github.com/garay54/KatasFront-End/blob/main/buyerpersona1.png)
 ![Image text](https://github.com/garay54/KatasFront-End/blob/main/buyerpersona2.png)
+
+# Publico objetivo
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/Publico%20objetivo.png)
+
+# Wireframe
+
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/wireframe1.png)
