@@ -23,3 +23,6 @@
 # Wireframe
 
 ![Image text](https://github.com/garay54/KatasFront-End/blob/main/wireframe1.png)
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/wireframe2.png)
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/Wireframe3.png)
+![Image text](https://github.com/garay54/KatasFront-End/blob/main/wireframe4.png)
